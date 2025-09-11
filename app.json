@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "my-hiit",
+    "slug": "my-hiit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
